@@ -1,0 +1,40 @@
+pip install pymupdf
+pip install fitz
+
+
+PyMuPDF (fitz):
+A more comprehensive library for working with PDF, XPS, OpenXPS, EPUB, and CBZ documents.
+Includes rendering capabilities to view PDFs as images.
+Strong text extraction capabilities, including support for images and coordinates.
+Common use cases: extracting text with layout information, rendering pages as images, and analyzing document contents.
+
+
+
+---------------------------------------
+
+
+Basic of flask api
+
+1st step create a virtual env
+virtualenv env
+.\env2\Scripts\Activate
+
+pip install flask
+from flask import Flask, render_template, jsonify, request
+
+
+
+pip install mysql-connector-python
+import mysql.connector
+
+
+
+
+--------------------------------
+
+about code 
+
+
+HTTP works as a request-response protocol between a client and server.
+
+
